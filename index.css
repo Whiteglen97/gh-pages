@@ -4,3 +4,15 @@ body
 	 font-size: 1em; 
 	 font-family: verdana, tahoma, arial, helvetica, sans-serif;
 }
+
+img 
+  {
+	float:left;
+	clear:both;
+	position: relative; left;
+	}
+	
+	h1,h2, h3
+	{
+	position: relative; right;
+	}
